@@ -2,4 +2,5 @@
 </br>
 [![2winyear's GitHub stats](https://github-readme-stats.vercel.app/api?username=2winyear)](https://github.com/2winyear)
 </br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={lsy2246})](https://solved.ac/{lsy2246})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
